@@ -89,6 +89,7 @@ Auf dieser Seite werden Erlasse zu Ausgangssperren gesammelt.
 
 | Stadt | Verordnung | Gültig ab | Gültig bis | Status |
 | ----- | ---------- | --------- | ---------- | ------ |
+| Sachsen | [AllgV](https://www.coronavirus.sachsen.de/download/AllgV-Corona-Ausgangsbeschraenkungen_22032020.pdf) | 23.03.2020 | 05.04.2020 | Gültig |
 | Dresden | [AllgV Ausgangsbeschränkung](https://www.dresden.de/media/pdf/presseamt/Allgemeinverfuegung.pdf) | 21.03.2020 | 04.04.2020 | Gültig |
 
 #### Sachsen-Anhalt
